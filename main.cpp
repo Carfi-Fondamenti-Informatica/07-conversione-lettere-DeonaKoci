@@ -10,8 +10,8 @@ int main() {
         char risultato = conversione (c);
         cout << risultato;
     }else{
-      
-        cout << "errore" ;
+      char ris[]="errore";
+        cout << ris ;
     }
     return 0;
 }
